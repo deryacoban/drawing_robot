@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nakov.TurtleGraphics/2.0.2.1": {
+        "runtime": {
+          "lib/net5.0-windows7.0/Nakov.TurtleGraphics.dll": {
+            "assemblyVersion": "2.0.2.1",
+            "fileVersion": "2.0.2.1"
+          }
+        }
+      },
+      "YaccLexTools/1.0.0": {
+        "dependencies": {
+          "YaccLexTools.Gplex": "1.2.2.1",
+          "YaccLexTools.Gppg": "1.5.2.1"
+        }
+      },
+      "YaccLexTools.Gplex/1.2.2.1": {},
+      "YaccLexTools.Gppg/1.5.2.1": {}
+    }
+  },
+  "libraries": {
+    "Nakov.TurtleGraphics/2.0.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EBXPvJawtk0EpxDoEe2El0GZldtfcEGaufppheUzitHTxNqiBRCgvaMyUQd/PElxx/COsdFCMszLEi0RjeP4gA==",
+      "path": "nakov.turtlegraphics/2.0.2.1",
+      "hashPath": "nakov.turtlegraphics.2.0.2.1.nupkg.sha512"
+    },
+    "YaccLexTools/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9+IrIzAvKvdDuv3KUw+aaxiDhin589iETtrfWQUUUh/ZFAHXqdBIs0kXBE5tcHwU3uKQ9Z49PcUhtJn6IxPT8g==",
+      "path": "yacclextools/1.0.0",
+      "hashPath": "yacclextools.1.0.0.nupkg.sha512"
+    },
+    "YaccLexTools.Gplex/1.2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Eg3LnfjfLHVbp+ex2aIIe3rmwYUUhvT/uN25F/UkGXgKRKf+KoNLneTzOnGJQAjJmGt+ZvRbkV5yKtrNlyZA0Q==",
+      "path": "yacclextools.gplex/1.2.2.1",
+      "hashPath": "yacclextools.gplex.1.2.2.1.nupkg.sha512"
+    },
+    "YaccLexTools.Gppg/1.5.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O0Gv3HnqvO49pnjOPDpu5ATiujY9QzmTuaBY0/GU7UjJ8y5oTkB3z0+UlSAO9w518dxA8RJyFIjU4JDaj986nQ==",
+      "path": "yacclextools.gppg/1.5.2.1",
+      "hashPath": "yacclextools.gppg.1.5.2.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)yacclextools.gppg\1.5.2.1\build\net6.0\YaccLexTools.Gppg.targets" Condition="Exists('$(NuGetPackageRoot)yacclextools.gppg\1.5.2.1\build\net6.0\YaccLexTools.Gppg.targets')" />
+    <Import Project="$(NuGetPackageRoot)yacclextools.gplex\1.2.2.1\build\net6.0\YaccLexTools.Gplex.targets" Condition="Exists('$(NuGetPackageRoot)yacclextools.gplex\1.2.2.1\build\net6.0\YaccLexTools.Gplex.targets')" />
+  </ImportGroup>
+</Project>

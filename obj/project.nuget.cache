@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2ig9NBgwY8Bq8KkSZlvHAYWmh88/8AybxFOIVNyeaR4tRrY1oALF8sKU9rDhsH9sjrRjgtoNV+2cpiroeOnGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\derya\\OneDrive\\Masaüstü\\Drawing_Robot\\Drawing_Robot\\Drawing_Robot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\derya\\.nuget\\packages\\nakov.turtlegraphics\\2.0.2.1\\nakov.turtlegraphics.2.0.2.1.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\yacclextools\\1.0.0\\yacclextools.1.0.0.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\yacclextools.gplex\\1.2.2.1\\yacclextools.gplex.1.2.2.1.nupkg.sha512",
+    "C:\\Users\\derya\\.nuget\\packages\\yacclextools.gppg\\1.5.2.1\\yacclextools.gppg.1.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
